@@ -1,0 +1,116 @@
+[18-04-27 11:28:39:134][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSettingUtils.
+[18-04-27 11:30:07:959][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 11:30:47:719][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:30:47:726][DEBUG][com.enoxs.verify.TestTypeSetting:41] [, ]
+[18-04-27 11:31:51:614][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:31:51:619][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id	op_id	patient_id	id_source	location	Target_UF_amount	Total_UF_amount	UF_rate	Blood_flow_rate	Syringe_flow_rate	Dialysate_temperature	Dialysate_conductivity	Venous_pressure	Dialysate_pressure	TMP	Dialysis_time	Dialysate_temperature_alarm	Conductivity_alarm	Venous_pressure_alarm	Dialysate_pressure_alarm	TMP_alarm	Air_bubble_detector_alarm	Blood_leak_alarm	Other_alarm	Dialysate_flow_rate	Measurement_times	Maximal_blood_pressure	Minimal_blood_pressure	Pulse	Upper_alarm_point_of_maximal_blood_pressure	Lower_alarm_point_of_maximal_blood_pressure	Cuff_pressure	Interval_of_measurement	Total_blood_flow_volume	Upper_alarm_point_of_venous_pressure	Lower_alarm_point_of_venous_pressure	Total_injection_volume	Upper_alarm_point_of_dialysate_pressure	Lower_alarm, point_of_dialysate_pressure	Nacl_infusion_step	UF_profile	Concentrate_select	Conductivity_step	Data_communication_states	Serial_number	Arterial_pressure	Arterial_pressure_alarm	Upper_alarm_point_of_arterial_pressure	Lower_alarm_point_of_arterial_pressure	Upper_alarm_point_of_TMP	Lower_alarm_point_of_TMP	Substitution_rate	Substitution_goal	Substitution_progress	Na_profile	Blood_pump_profile	Syringe_pump__profile	Dialysate_profile	Dialysate_temperature_set_value	Water_short_2_alarm	vip_ip	data_time	status	Upload_time	weight	message	device_model	F_venous	F_art	F_tmp	F_arterial_flow	F_target_temp	F_actual_temp	F_con	F_UF_rate	F_UF_target	F_UF_vol	F_UF_time	F_flow_rate	F_IndiLF_alarm	F_BicLF_alarm	F_ROLF_alarm	F_External_alarm	F_Watershort_alarm	F_LowerFlow_alarm	F_Heparin_alarm	F_BloodLekage_alarm	F_AirDetector_alarm	F_temp_alarm	F_con_alarm	F_ArtBlood_alarm	F_VenBlood_alarm	F_Tmp_alarm	F_ArtStop_alarm	F_Current_flow	F_Blood_leak	F_Clouding	F_CPU1	F_CPU2	F_Loss_liquid	F_Target_sodium	F_Bicarbonate	F_Effective_blood	F_Accu_blood	F_device_id	F_Start_sodium	F_UF_prof	F_sodium_prof	F_Delivery_rate	F_Accu_bolusvol	F_Accu_vol	F_Bibag_temp	F_Bibag_con	F_Bibag_status	F_Error_num	F_Sys	F_Dia	F_Pulse	F_Measure_times	BT	NS	F_HDF_rate	F_HDF_vol	Finish_time	vip_log	EXTENDS]
+[18-04-27 11:32:45:721][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:32:45:727][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id	op_id	patient_id	id_source	location	Target_UF_amount	Total_UF_amount	UF_rate	Blood_flow_rate	Syringe_flow_rate	Dialysate_temperature	Dialysate_conductivity	Venous_pressure	Dialysate_pressure	TMP	Dialysis_time	Dialysate_temperature_alarm	Conductivity_alarm	Venous_pressure_alarm	Dialysate_pressure_alarm	TMP_alarm	Air_bubble_detector_alarm	Blood_leak_alarm	Other_alarm	Dialysate_flow_rate	Measurement_times	Maximal_blood_pressure	Minimal_blood_pressure	Pulse	Upper_alarm_point_of_maximal_blood_pressure	Lower_alarm_point_of_maximal_blood_pressure	Cuff_pressure	Interval_of_measurement	Total_blood_flow_volume	Upper_alarm_point_of_venous_pressure	Lower_alarm_point_of_venous_pressure	Total_injection_volume	Upper_alarm_point_of_dialysate_pressure	Lower_alarm, point_of_dialysate_pressure	Nacl_infusion_step	UF_profile	Concentrate_select	Conductivity_step	Data_communication_states	Serial_number	Arterial_pressure	Arterial_pressure_alarm	Upper_alarm_point_of_arterial_pressure	Lower_alarm_point_of_arterial_pressure	Upper_alarm_point_of_TMP	Lower_alarm_point_of_TMP	Substitution_rate	Substitution_goal	Substitution_progress	Na_profile	Blood_pump_profile	Syringe_pump__profile	Dialysate_profile	Dialysate_temperature_set_value	Water_short_2_alarm	vip_ip	data_time	status	Upload_time	weight	message	device_model	F_venous	F_art	F_tmp	F_arterial_flow	F_target_temp	F_actual_temp	F_con	F_UF_rate	F_UF_target	F_UF_vol	F_UF_time	F_flow_rate	F_IndiLF_alarm	F_BicLF_alarm	F_ROLF_alarm	F_External_alarm	F_Watershort_alarm	F_LowerFlow_alarm	F_Heparin_alarm	F_BloodLekage_alarm	F_AirDetector_alarm	F_temp_alarm	F_con_alarm	F_ArtBlood_alarm	F_VenBlood_alarm	F_Tmp_alarm	F_ArtStop_alarm	F_Current_flow	F_Blood_leak	F_Clouding	F_CPU1	F_CPU2	F_Loss_liquid	F_Target_sodium	F_Bicarbonate	F_Effective_blood	F_Accu_blood	F_device_id	F_Start_sodium	F_UF_prof	F_sodium_prof	F_Delivery_rate	F_Accu_bolusvol	F_Accu_vol	F_Bibag_temp	F_Bibag_con	F_Bibag_status	F_Error_num	F_Sys	F_Dia	F_Pulse	F_Measure_times	BT	NS	F_HDF_rate	F_HDF_vol	Finish_time	vip_log	EXTENDS]
+[18-04-27 11:33:33:197][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:33:33:203][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id	op_id	patient_id	id_source	location	Target_UF_amount	Total_UF_amount	UF_rate	Blood_flow_rate	Syringe_flow_rate	Dialysate_temperature	Dialysate_conductivity	Venous_pressure	Dialysate_pressure	TMP	Dialysis_time	Dialysate_temperature_alarm	Conductivity_alarm	Venous_pressure_alarm	Dialysate_pressure_alarm	TMP_alarm	Air_bubble_detector_alarm	Blood_leak_alarm	Other_alarm	Dialysate_flow_rate	Measurement_times	Maximal_blood_pressure	Minimal_blood_pressure	Pulse	Upper_alarm_point_of_maximal_blood_pressure	Lower_alarm_point_of_maximal_blood_pressure	Cuff_pressure	Interval_of_measurement	Total_blood_flow_volume	Upper_alarm_point_of_venous_pressure	Lower_alarm_point_of_venous_pressure	Total_injection_volume	Upper_alarm_point_of_dialysate_pressure	Lower_alarm, point_of_dialysate_pressure	Nacl_infusion_step	UF_profile	Concentrate_select	Conductivity_step	Data_communication_states	Serial_number	Arterial_pressure	Arterial_pressure_alarm	Upper_alarm_point_of_arterial_pressure	Lower_alarm_point_of_arterial_pressure	Upper_alarm_point_of_TMP	Lower_alarm_point_of_TMP	Substitution_rate	Substitution_goal	Substitution_progress	Na_profile	Blood_pump_profile	Syringe_pump__profile	Dialysate_profile	Dialysate_temperature_set_value	Water_short_2_alarm	vip_ip	data_time	status	Upload_time	weight	message	device_model	F_venous	F_art	F_tmp	F_arterial_flow	F_target_temp	F_actual_temp	F_con	F_UF_rate	F_UF_target	F_UF_vol	F_UF_time	F_flow_rate	F_IndiLF_alarm	F_BicLF_alarm	F_ROLF_alarm	F_External_alarm	F_Watershort_alarm	F_LowerFlow_alarm	F_Heparin_alarm	F_BloodLekage_alarm	F_AirDetector_alarm	F_temp_alarm	F_con_alarm	F_ArtBlood_alarm	F_VenBlood_alarm	F_Tmp_alarm	F_ArtStop_alarm	F_Current_flow	F_Blood_leak	F_Clouding	F_CPU1	F_CPU2	F_Loss_liquid	F_Target_sodium	F_Bicarbonate	F_Effective_blood	F_Accu_blood	F_device_id	F_Start_sodium	F_UF_prof	F_sodium_prof	F_Delivery_rate	F_Accu_bolusvol	F_Accu_vol	F_Bibag_temp	F_Bibag_con	F_Bibag_status	F_Error_num	F_Sys	F_Dia	F_Pulse	F_Measure_times	BT	NS	F_HDF_rate	F_HDF_vol	Finish_time	vip_log	EXTENDS]
+[18-04-27 11:34:21:247][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:34:21:255][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id	op_id	patient_id	id_source	location	Target_UF_amount	Total_UF_amount	UF_rate	Blood_flow_rate	Syringe_flow_rate	Dialysate_temperature	Dialysate_conductivity	Venous_pressure	Dialysate_pressure	TMP	Dialysis_time	Dialysate_temperature_alarm	Conductivity_alarm	Venous_pressure_alarm	Dialysate_pressure_alarm	TMP_alarm	Air_bubble_detector_alarm	Blood_leak_alarm	Other_alarm	Dialysate_flow_rate	Measurement_times	Maximal_blood_pressure	Minimal_blood_pressure	Pulse	Upper_alarm_point_of_maximal_blood_pressure	Lower_alarm_point_of_maximal_blood_pressure	Cuff_pressure	Interval_of_measurement	Total_blood_flow_volume	Upper_alarm_point_of_venous_pressure	Lower_alarm_point_of_venous_pressure	Total_injection_volume	Upper_alarm_point_of_dialysate_pressure	Lower_alarm, point_of_dialysate_pressure	Nacl_infusion_step	UF_profile	Concentrate_select	Conductivity_step	Data_communication_states	Serial_number	Arterial_pressure	Arterial_pressure_alarm	Upper_alarm_point_of_arterial_pressure	Lower_alarm_point_of_arterial_pressure	Upper_alarm_point_of_TMP	Lower_alarm_point_of_TMP	Substitution_rate	Substitution_goal	Substitution_progress	Na_profile	Blood_pump_profile	Syringe_pump__profile	Dialysate_profile	Dialysate_temperature_set_value	Water_short_2_alarm	vip_ip	data_time	status	Upload_time	weight	message	device_model	F_venous	F_art	F_tmp	F_arterial_flow	F_target_temp	F_actual_temp	F_con	F_UF_rate	F_UF_target	F_UF_vol	F_UF_time	F_flow_rate	F_IndiLF_alarm	F_BicLF_alarm	F_ROLF_alarm	F_External_alarm	F_Watershort_alarm	F_LowerFlow_alarm	F_Heparin_alarm	F_BloodLekage_alarm	F_AirDetector_alarm	F_temp_alarm	F_con_alarm	F_ArtBlood_alarm	F_VenBlood_alarm	F_Tmp_alarm	F_ArtStop_alarm	F_Current_flow	F_Blood_leak	F_Clouding	F_CPU1	F_CPU2	F_Loss_liquid	F_Target_sodium	F_Bicarbonate	F_Effective_blood	F_Accu_blood	F_device_id	F_Start_sodium	F_UF_prof	F_sodium_prof	F_Delivery_rate	F_Accu_bolusvol	F_Accu_vol	F_Bibag_temp	F_Bibag_con	F_Bibag_status	F_Error_num	F_Sys	F_Dia	F_Pulse	F_Measure_times	BT	NS	F_HDF_rate	F_HDF_vol	Finish_time	vip_log	EXTENDS]
+[18-04-27 11:34:38:955][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:34:38:960][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id	op_id	patient_id	id_source	location	Target_UF_amount	Total_UF_amount	UF_rate	Blood_flow_rate	Syringe_flow_rate	Dialysate_temperature	Dialysate_conductivity	Venous_pressure	Dialysate_pressure	TMP	Dialysis_time	Dialysate_temperature_alarm	Conductivity_alarm	Venous_pressure_alarm	Dialysate_pressure_alarm	TMP_alarm	Air_bubble_detector_alarm	Blood_leak_alarm	Other_alarm	Dialysate_flow_rate	Measurement_times	Maximal_blood_pressure	Minimal_blood_pressure	Pulse	Upper_alarm_point_of_maximal_blood_pressure	Lower_alarm_point_of_maximal_blood_pressure	Cuff_pressure	Interval_of_measurement	Total_blood_flow_volume	Upper_alarm_point_of_venous_pressure	Lower_alarm_point_of_venous_pressure	Total_injection_volume	Upper_alarm_point_of_dialysate_pressure	Lower_alarm, point_of_dialysate_pressure	Nacl_infusion_step	UF_profile	Concentrate_select	Conductivity_step	Data_communication_states	Serial_number	Arterial_pressure	Arterial_pressure_alarm	Upper_alarm_point_of_arterial_pressure	Lower_alarm_point_of_arterial_pressure	Upper_alarm_point_of_TMP	Lower_alarm_point_of_TMP	Substitution_rate	Substitution_goal	Substitution_progress	Na_profile	Blood_pump_profile	Syringe_pump__profile	Dialysate_profile	Dialysate_temperature_set_value	Water_short_2_alarm	vip_ip	data_time	status	Upload_time	weight	message	device_model	F_venous	F_art	F_tmp	F_arterial_flow	F_target_temp	F_actual_temp	F_con	F_UF_rate	F_UF_target	F_UF_vol	F_UF_time	F_flow_rate	F_IndiLF_alarm	F_BicLF_alarm	F_ROLF_alarm	F_External_alarm	F_Watershort_alarm	F_LowerFlow_alarm	F_Heparin_alarm	F_BloodLekage_alarm	F_AirDetector_alarm	F_temp_alarm	F_con_alarm	F_ArtBlood_alarm	F_VenBlood_alarm	F_Tmp_alarm	F_ArtStop_alarm	F_Current_flow	F_Blood_leak	F_Clouding	F_CPU1	F_CPU2	F_Loss_liquid	F_Target_sodium	F_Bicarbonate	F_Effective_blood	F_Accu_blood	F_device_id	F_Start_sodium	F_UF_prof	F_sodium_prof	F_Delivery_rate	F_Accu_bolusvol	F_Accu_vol	F_Bibag_temp	F_Bibag_con	F_Bibag_status	F_Error_num	F_Sys	F_Dia	F_Pulse	F_Measure_times	BT	NS	F_HDF_rate	F_HDF_vol	Finish_time	vip_log	EXTENDS]
+[18-04-27 11:35:06:937][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:35:06:942][DEBUG][com.enoxs.verify.TestTypeSetting:41] [id, op_id, patient_id, id_source, location, Target_UF_amount, Total_UF_amount, UF_rate, Blood_flow_rate, Syringe_flow_rate, Dialysate_temperature, Dialysate_conductivity, Venous_pressure, Dialysate_pressure, TMP, Dialysis_time, Dialysate_temperature_alarm, Conductivity_alarm, Venous_pressure_alarm, Dialysate_pressure_alarm, TMP_alarm, Air_bubble_detector_alarm, Blood_leak_alarm, Other_alarm, Dialysate_flow_rate, Measurement_times, Maximal_blood_pressure, Minimal_blood_pressure, Pulse, Upper_alarm_point_of_maximal_blood_pressure, Lower_alarm_point_of_maximal_blood_pressure, Cuff_pressure, Interval_of_measurement, Total_blood_flow_volume, Upper_alarm_point_of_venous_pressure, Lower_alarm_point_of_venous_pressure, Total_injection_volume, Upper_alarm_point_of_dialysate_pressure, Lower_alarm point_of_dialysate_pressure, Nacl_infusion_step, UF_profile, Concentrate_select, Conductivity_step, Data_communication_states, Serial_number, Arterial_pressure, Arterial_pressure_alarm, Upper_alarm_point_of_arterial_pressure, Lower_alarm_point_of_arterial_pressure, Upper_alarm_point_of_TMP, Lower_alarm_point_of_TMP, Substitution_rate, Substitution_goal, Substitution_progress, Na_profile, Blood_pump_profile, Syringe_pump__profile, Dialysate_profile, Dialysate_temperature_set_value, Water_short_2_alarm, vip_ip, data_time, status, Upload_time, weight, message, device_model, F_venous, F_art, F_tmp, F_arterial_flow, F_target_temp, F_actual_temp, F_con, F_UF_rate, F_UF_target, F_UF_vol, F_UF_time, F_flow_rate, F_IndiLF_alarm, F_BicLF_alarm, F_ROLF_alarm, F_External_alarm, F_Watershort_alarm, F_LowerFlow_alarm, F_Heparin_alarm, F_BloodLekage_alarm, F_AirDetector_alarm, F_temp_alarm, F_con_alarm, F_ArtBlood_alarm, F_VenBlood_alarm, F_Tmp_alarm, F_ArtStop_alarm, F_Current_flow, F_Blood_leak, F_Clouding, F_CPU1, F_CPU2, F_Loss_liquid, F_Target_sodium, F_Bicarbonate, F_Effective_blood, F_Accu_blood, F_device_id, F_Start_sodium, F_UF_prof, F_sodium_prof, F_Delivery_rate, F_Accu_bolusvol, F_Accu_vol, F_Bibag_temp, F_Bibag_con, F_Bibag_status, F_Error_num, F_Sys, F_Dia, F_Pulse, F_Measure_times, BT, NS, F_HDF_rate, F_HDF_vol, Finish_time, vip_log, EXTENDS]
+[18-04-27 11:35:21:060][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:36:20:774][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:36:57:725][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:39:14:094][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 11:39:32:200][INFO ][com.enoxs.verify.TestTypeSetting:20] init -> TestTypeSetting.
+[18-04-27 14:00:31:018][INFO ][com.maya.DevelopX:38] init -> DevelopX.
+[18-04-27 14:00:31:021][INFO ][com.maya.DevelopX:41] 79 | 79
+[18-04-27 14:02:09:728][INFO ][com.maya.DevelopX:38] init -> DevelopX.
+[18-04-27 14:02:09:731][INFO ][com.maya.DevelopX:41] 79 | 79
+[18-04-27 14:02:09:732][INFO ][com.maya.DevelopX:49] 
+pre_SW -> true
+dia_SW -> true
+bypass_SW -> true
+clean_SW -> true
+syringe_SW -> true
+bubble_SW -> true
+maintenance -> true
+squf -> true
+dialysate_Hand -> true
+heater_Cross -> true
+remote -> true
+venous -> false
+dialysate -> false
+tmp -> false
+UF -> false
+total_UF -> false
+target_UF -> false
+temp -> false
+blood_Flow -> false
+syringe_Rate -> false
+UF_Per -> true
+UF_Time -> false
+clean_Time -> true
+NCU_Error -> false
+syringe_Error -> true
+bubble_Error -> false
+switch -> true
+gas_Purge -> true
+liquid -> true
+clean_Mode -> true
+water_A -> true
+water_AB -> true
+con_Alarm_High_Limit -> true
+con_Alarm_low_Limit -> true
+dia_Mode -> true
+nacl -> false
+correct -> true
+syringe -> false
+single_Needle -> true
+UF_Program -> false
+DIP_1 -> true
+DIP_2 -> true
+DIP_3 -> true
+DIP_4 -> true
+DIP_5 -> true
+DIP_6 -> true
+temp_Set -> false
+multi_Controller -> true
+real_UF -> true
+con2 -> true
+venous_Alarm_High_Limit -> false
+venous_Alarm_Low_Limit -> false
+dialysate_Alarm_High_Limit -> false
+dialysate_Alarm_Low_Limit -> false
+rest_Time -> true
+squf_Time -> true
+injury_time -> true
+UF_Start -> true
+now -> true
+dia_End_Time -> true
+elec_Con -> false
+blood_Time -> true
+blood_Vol_Dia -> false
+blood_Vol_Recover -> true
+blood_Vol_Squf -> true
+blood_Vol_Bypass -> true
+blood_Vol_Total -> true
+antic_Vol -> true
+max_Blood -> true
+mean_Blood -> true
+min_Blood -> true
+pulse_Blood -> true
+correct_Rate -> true
+sub_Vol -> true
+sub_Volume -> true
+sub_goal -> false
+art -> false
+warmer_temp -> true
+machine -> true
+
+[18-04-27 14:40:19:038][INFO ][com.enoxs.verify.TestTypeSetting:16] init -> TestTypeSetting.
+[18-04-27 14:41:02:244][INFO ][com.enoxs.verify.TestTypeSetting:16] init -> TestTypeSetting.
+[18-04-27 14:41:25:384][INFO ][com.enoxs.verify.TestTypeSetting:16] init -> TestTypeSetting.
+[18-04-27 14:42:04:941][INFO ][com.enoxs.verify.TestTypeSetting:16] init -> TestTypeSetting.
+[18-04-27 14:42:44:766][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 14:43:43:871][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 14:44:09:376][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 14:44:58:674][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 14:45:07:500][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
+[18-04-27 14:45:22:841][INFO ][com.enoxs.verify.TestTypeSetting:18] init -> TestTypeSetting.
