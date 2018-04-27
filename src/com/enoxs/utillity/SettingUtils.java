@@ -7,15 +7,15 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-public class ConfigUtils {
-	private static Logger log = Logger.getLogger(ConfigUtils.class);
+public class SettingUtils {
+	private static Logger log = Logger.getLogger(SettingUtils.class);
 	
-	public ConfigUtils() {
+	public SettingUtils() {
 		// TODO 自動產生的建構子 Stub
 	}
 	public void initConfigSetting(){
-		loadLog4jProps();
-		loadConfigProps();
+		initLog4j();
+		initConfig();
 	}
 	public Properties getProperties() throws IOException {
 		Properties readHisPara = new Properties();
@@ -25,7 +25,7 @@ public class ConfigUtils {
 		return readHisPara;
 	}
 	
-	public void loadLog4jProps() {
+	public void initLog4j() {
 		Properties prob = new Properties();
 		try {
         	FileInputStream fis = new FileInputStream("src/res/config/log4j.properties");
@@ -38,7 +38,7 @@ public class ConfigUtils {
         }
 		PropertyConfigurator.configure(prob);
 	}
-	public  void loadConfigProps() {
+	public  void initConfig() {
 		try {
             FileInputStream fis = new FileInputStream("src/res/config/config.properties");
             Properties props = new Properties();

@@ -76,51 +76,8 @@ public class Calculator {//Calculate_Tools
 	public int HexStringToDecimal(String hex) {
 		return (Integer.valueOf(hex, 16));
 	}
-	public boolean checkCrcByte(StringBuffer _sb) {
-        boolean isChecked = false;
-        int len = _sb.length();
-        if (len > 0) {
-            int srcCrcByte = hexStringToDecimal(_sb.substring(len-2, len));
-            int calCrcByte = crcByte(_sb.substring(0, len-2));
-            //log.debug("crcByte:" + Integer.toString(srcCrcByte)
-            //        + " to " + Integer.toString(calCrcByte, 16));
-            if (srcCrcByte == calCrcByte) {
-                isChecked = true;
-            }
-        }
-        return isChecked;
-    }
-	public int crcByte (String _hex) {
-        int crc = 0x00; //initial value
-        if (!_hex.equals("")) {
-            int size = _hex.length() / 2;
-            for (int i=0; i<size; i++) {
-                String s = _hex.substring(i*2, i*2+2);
-                int n = hexStringToDecimal(s);
-                crc += n;
-            }
-            crc %= 256;
-        }
-        return crc;
-    }
-	public int crc16CCIT (String _hex) {
-        int crc = 0x0000; //initial value
-        int polynomial = 0x1021; //0001 0000 0010 0001 (0, 5, 12)
-        if (!_hex.equals("")) {
-            byte[] bs = HexStringToByteArray(_hex);
-            for (byte b : bs) {
-                for (int i = 0; i < 8; i++) {
-                    boolean bit = ((b   >> (7-i) & 1) == 1);
-                    boolean c15 = ((crc >> 15    & 1) == 1);
-                    crc <<= 1;
-                    if (c15 ^ bit) crc ^= polynomial;
-                }
-            }
-            crc &= 0xffff;
-        }
-        //swab
-        return (((crc & 0xFF00) >> 8) + ((crc & 0xFF) << 8));
-    }
+
+
 	public int hexStringToDecimal(String _hex) {
         return (Integer.valueOf(_hex, 16));
     }
