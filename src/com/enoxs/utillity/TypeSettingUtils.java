@@ -17,14 +17,46 @@ public class TypeSettingUtils {
      * Show String Array code
      * Copy
      */
-    public String showStringArray(String [] msg,int lf,boolean isComma){
+    private boolean isComma = true;
+    private boolean isNumber = true;
+    private boolean isQuotationMarks = false;
+    private  int lf = 1;
+    public void setStringArrayFormat(int lf , boolean isNumber,boolean isQuotationMarks,boolean isComma){
+        setNextLine(lf);
+        setFormateNumber(isNumber);
+        setFormatQuotationMarks(isQuotationMarks);
+        setFormatComma(isComma);
+
+    }
+    public void setNextLine(int lf){
+        this.lf = lf;
+    }
+    public void setFormateNumber(boolean isNumber){
+        this.isNumber = isNumber;
+    }
+    public void setFormatComma(boolean isComma){
+        this.isComma = isComma;
+    }
+    public void setFormatQuotationMarks(boolean isQuotationMarks){
+        this.isQuotationMarks = isQuotationMarks;
+    }
+    public String showStringArray(String [] msg){
         StringBuffer sb = new StringBuffer(512);
         for(int i=0;i<msg.length;i++){
+            if(this.isNumber){
+                sb.append((i + 1) + " : ");
+            }
+            if(isQuotationMarks){
+                sb.append("\"");
+            }
             sb.append(msg[i]);
-            if(i != msg.length-1 && isComma){
+            if(isQuotationMarks){
+                sb.append("\"");
+            }
+            if(i != msg.length-1 && this.isComma){
                 sb.append(" , ");
             }
-            if((i+1) % lf == 0 && i != msg.length-1){
+            if((i+1) % this.lf == 0 && i != msg.length-1){
                 sb.append("\n");
             }
         }
