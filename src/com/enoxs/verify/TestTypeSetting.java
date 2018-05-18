@@ -38,7 +38,8 @@ public class TestTypeSetting {
                 "B1 , B2 , B3 , B4 , B5 , C1 , C2 , C3 , C4 , C5";
         source = foe.LoadData("src/assets/rawdata.txt");
         String [] tempArray = typeSet.splitMsgToArray(source," ");
-        result = typeSet.showStringArray(tempArray,10,true);
+        typeSet.setStringArrayFormat(10,false,false,true);
+        result = typeSet.showStringArray(tempArray);
         showMsg();
         assertEquals(target,result);
     }

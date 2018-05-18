@@ -1,7 +1,7 @@
 package com.enoxs.verify;
 
 
-import com.enoxs.example.Son;
+import com.enoxs.example.oop.Son;
 import com.enoxs.utillity.ReflectionUtils;
 import org.junit.Test;
 

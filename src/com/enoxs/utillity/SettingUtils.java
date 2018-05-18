@@ -17,18 +17,26 @@ public class SettingUtils {
 		initLog4j();
 		initConfig();
 	}
-	public Properties getProperties() throws IOException {
-		Properties readHisPara = new Properties();
-		FileInputStream fin = new FileInputStream("./connDB.ini");
-		readHisPara.load(fin);
-		fin.close();
+	public Properties getProperties(String adress){
+		Properties readHisPara = null;
+		try {
+			readHisPara = new Properties();
+			FileInputStream fin = new FileInputStream(adress);
+			readHisPara.load(fin);
+			fin.close();
+		}catch (IOException e){
+			e.printStackTrace();
+		}
+		catch (Exception e){
+			e.printStackTrace();
+		}
 		return readHisPara;
 	}
 	
 	public void initLog4j() {
 		Properties prob = new Properties();
 		try {
-        	FileInputStream fis = new FileInputStream("src/res/config/log4j.properties");
+        	FileInputStream fis = new FileInputStream("config/log4j.properties");
             prob.load(fis);
             fis.close();
             fis = null;
@@ -40,7 +48,7 @@ public class SettingUtils {
 	}
 	public  void initConfig() {
 		try {
-            FileInputStream fis = new FileInputStream("src/res/config/config.properties");
+            FileInputStream fis = new FileInputStream("config/config.properties");
             Properties props = new Properties();
             props.load(fis);
             System.out.println("Project : " + props.getProperty("app_name"));
