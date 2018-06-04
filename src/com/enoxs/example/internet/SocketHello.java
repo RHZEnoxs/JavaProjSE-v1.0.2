@@ -7,7 +7,7 @@ import java.net.SocketTimeoutException;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class SocketHello extends SocketClient {
+public class SocketHello extends Client {
     private static Logger log = Logger.getLogger(SocketMonitor.class);
     private SettingUtils setup = new SettingUtils();
     public SocketHello(){
@@ -27,8 +27,8 @@ public class SocketHello extends SocketClient {
         String ip = props.getProperty("app_monitor_ip");
         String port = props.getProperty("app_monitor_port");
         timeout = Integer.parseInt(props.getProperty("app_monitor_timeout"));
-        System.out.println("ip address : " + ip + ":" + port);
-        System.out.println("timeout : " + timeout);
+        System.out.println("IP address : " + ip + ":" + port);
+        System.out.println("TIMEOUT : " + timeout);
         super.setRemoteAddress(ip,Integer.parseInt(port));
     }
     public void ctrl(){
@@ -109,6 +109,13 @@ public class SocketHello extends SocketClient {
             }
         }
     }
+
+    @Override
+    public void receiveSocketEvent() {
+
+    }
+
+
     public static void main(String[] args) {
         new SocketHello();
     }

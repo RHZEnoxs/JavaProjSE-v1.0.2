@@ -103,7 +103,7 @@ public abstract class RXTXComm implements SerialPortEventListener{
     
     
     /**
-     * Handles the input coming from the serial port. A new line character
+     * Handles the input coming from the serial PORT. A new line character
      * is treated as the end of a block in this example. 
      */
     public StringBuffer msg_sb = new StringBuffer();

@@ -44,7 +44,7 @@ public class MessageConsoleCenter extends Thread{
 
 
     public MessageConsoleCenter(){
-        log.info("init SocketServer.");
+        log.info("init Server.");
         currentThread = Thread.currentThread();
         Thread threadSendBroadcast = new Thread(new BroadcastRunnable());
         threadSendBroadcast.start();

@@ -82,4 +82,14 @@ public class VerifyUtils {
             return false;
         }
     }
+
+    public int leastCommonMultiple(int a,int b){
+	    int max = 1;
+        for (int i = 2; i <= a; i++) {
+            if (a % i == 0 && b % i == 0) {
+                max = i;
+            }
+        }
+        return (a * b / max);
+    }
 }

@@ -7,7 +7,7 @@ import java.net.SocketTimeoutException;
 import java.util.Properties;
 import java.util.Scanner;
 
-public class SocketMonitor extends SocketClient {
+public class SocketMonitor extends Client {
     private static Logger log = Logger.getLogger(SocketMonitor.class);
     private SettingUtils setup = new SettingUtils();
     public SocketMonitor(){
@@ -17,18 +17,13 @@ public class SocketMonitor extends SocketClient {
 
     int timeout;
     public void init(){
-        setup.initLog4j();
+        setup.initConfigSetting();
         Properties props = setup.getProperties("config/monitor.properties");
-        System.out.println("Project : " + props.getProperty("app_name"));
-        System.out.println("Version : " + props.getProperty("app_version"));
-        System.out.println("Data : " + props.getProperty("app_data"));
-        System.out.println("Author : " + props.getProperty("app_author"));
-        System.out.println("Remark : " + props.getProperty("app_remark"));
         String ip = props.getProperty("app_monitor_ip");
         String port = props.getProperty("app_monitor_port");
         timeout = Integer.parseInt(props.getProperty("app_monitor_timeout"));
-        System.out.println("ip address : " + ip + ":" + port);
-        System.out.println("timeout : " + timeout);
+        System.out.println("IP address : " + ip + ":" + port);
+        System.out.println("TIMEOUT : " + timeout);
         super.setRemoteAddress(ip,Integer.parseInt(port));
     }
     public void ctrl(){
@@ -71,7 +66,7 @@ public class SocketMonitor extends SocketClient {
     public void run(){
         int read = 0;
         StringBuffer sb = new StringBuffer(2048);
-        char[] buffer = new char[2048];
+        char[] buffer = new char[4096];
         while (isRunning) {
             try {
                 if (connected) {
@@ -107,6 +102,11 @@ public class SocketMonitor extends SocketClient {
                 log.error(e.getMessage(),e);
             }
         }
+    }
+
+    @Override
+    public void receiveSocketEvent() {
+
     }
 
     public static void main(String[] args) {
