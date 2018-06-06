@@ -7,34 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f377ffa0-c317-46e8-b818-14bd2a8d0a72" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/jdbc/Sqlite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/oop/AbstractX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/oop/InterfaceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/oop/ObjectX1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/temporary/Exam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mssql_jdbc_6_2_2_jre8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_39_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/demo/ByteBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/demo/CallbackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/demo/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/demo/TipDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/jdbc/MSSQLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enoxs/example/jdbc/MySQLDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProjSE-v1.0.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProjSE-v1.0.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/msg.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/msg.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/assets/rawdata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/com/enoxs/utillity/VerifyData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/com/enoxs/verify/TestMainApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/res/config/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/res/config/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/res/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.1/res/raw/txtFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.2/com/enoxs/utillity/VerifyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.2/com/enoxs/utillity/VerifyUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.2/com/enoxs/verify/ReflectionUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjSE-v1.0.2/com/enoxs/verify/ReflectionUtilsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketMonitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/internet/SocketServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/oop/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/oop/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/thread/MessageConsoleCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/thread/MessageConsoleCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/element/QueueElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/demo/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enoxs/example/jdbc/Sqlite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/example/jdbc/SQLiteDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/enoxs/utillity/RXTXComm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/utillity/RXTXComm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/enoxs/utillity/VerifyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/utillity/VerifyUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enoxs/verify/ReflectionUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enoxs/verify/ReflectionUtilsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,24 +39,43 @@
     <favorites_list name="JavaProjSE-v1.0.2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sqlite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/Sqlite.java">
+    <leaf>
+      <file leaf-file-name="SQLiteDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/SQLiteDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="76">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySQLDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/MySQLDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MSSQLDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/MSSQLDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Exam.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/temporary/Exam.java">
+      <file leaf-file-name="Connection.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="118">
+              <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -79,6 +86,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -99,19 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/enoxs/example/Sample.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/utillity/FileOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/example/Device.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/verify/TestCalculator.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/utillity/ReflectionUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/example/ThreadSpaceX.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/utillity/VerifyData.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/utillity/ConfigUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/verify/TestTypeSettingUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/maya/DevelopX.java" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/verify/TestVerifyUtils.java" />
-        <option value="$PROJECT_DIR$/src/assets/rawdata.txt" />
-        <option value="$PROJECT_DIR$/src/com/enoxs/utillity/TypeSettingUtils.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/verify/TestTypeSetting.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/example/thread/TestSynchronized.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/example/thread/TestSynchronizedv2.java" />
@@ -149,7 +144,20 @@
         <option value="$PROJECT_DIR$/src/com/enoxs/example/oop/ObjectX1.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/utillity/Calculator.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/utillity/VerifyUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/Listener.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/EventListener.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/Callback.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/CallBackDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/CallbackEasy.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/CallBackUnit.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/CallbackDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/element/TipDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/demo/ByteBufferDemo.java" />
         <option value="$PROJECT_DIR$/src/com/enoxs/example/jdbc/Sqlite.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/jdbc/SQLiteDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/jdbc/MySQLDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/enoxs/example/jdbc/MSSQLDemo.java" />
       </list>
     </option>
   </component>
@@ -172,7 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -190,7 +197,48 @@
               <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
               <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
               <item name="com" type="1f31426a:PackageElementNode" />
-              <item name="temporary" type="1f31426a:PackageElementNode" />
+              <item name="enoxs" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="enoxs" type="1f31426a:PackageElementNode" />
+              <item name="example" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="enoxs" type="1f31426a:PackageElementNode" />
+              <item name="example" type="1f31426a:PackageElementNode" />
+              <item name="jdbc" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="enoxs" type="1f31426a:PackageElementNode" />
+              <item name="example" type="1f31426a:PackageElementNode" />
+              <item name="thread" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="java" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaProjSE-v1.0.2" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaProjSE-v1.0.2" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+              <item name="java" type="1f31426a:PackageElementNode" />
+              <item name="sql" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -212,6 +260,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,49 +294,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sqlite">
-    <configuration name="Exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.temporary.Exam" />
+  <component name="RunManager" selected="Application.MSSQLDemo">
+    <configuration name="CallBackUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.element.CallBackUnit" />
       <module name="JavaProjSE-v1.0.2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.temporary.*" />
+          <option name="PATTERN" value="com.enoxs.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ObjectX1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.oop.ObjectX1" />
+    <configuration name="CallbackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.demo.CallbackDemo" />
       <module name="JavaProjSE-v1.0.2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.enoxs.example.oop.*" />
+          <option name="PATTERN" value="com.enoxs.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.internet.SocketClient" />
-      <module name="JavaProjSE-v1.0.2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.enoxs.example.internet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.internet.SocketServer" />
-      <module name="JavaProjSE-v1.0.2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.enoxs.example.internet.SocketClient" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Sqlite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.jdbc.Sqlite" />
+    <configuration name="MSSQLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.jdbc.MSSQLDemo" />
       <module name="JavaProjSE-v1.0.2" />
       <extension name="coverage">
         <pattern>
@@ -296,20 +325,40 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="MySQLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.jdbc.MySQLDemo" />
+      <module name="JavaProjSE-v1.0.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enoxs.example.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TipDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enoxs.example.demo.TipDemo" />
+      <module name="JavaProjSE-v1.0.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enoxs.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.SocketServer" />
-      <item itemvalue="Application.SocketClient" />
-      <item itemvalue="Application.Exam" />
-      <item itemvalue="Application.ObjectX1" />
-      <item itemvalue="Application.Sqlite" />
+      <item itemvalue="Application.CallBackUnit" />
+      <item itemvalue="Application.CallbackDemo" />
+      <item itemvalue="Application.TipDemo" />
+      <item itemvalue="Application.MySQLDemo" />
+      <item itemvalue="Application.MSSQLDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sqlite" />
-        <item itemvalue="Application.ObjectX1" />
-        <item itemvalue="Application.Exam" />
-        <item itemvalue="Application.SocketServer" />
-        <item itemvalue="Application.SocketClient" />
+        <item itemvalue="Application.MSSQLDemo" />
+        <item itemvalue="Application.MySQLDemo" />
+        <item itemvalue="Application.TipDemo" />
+        <item itemvalue="Application.CallbackDemo" />
+        <item itemvalue="Application.CallBackUnit" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526633730126</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adjust: Package Structue&#10;1. add SocketMonitor and Export Jar&#10;2. add Sqlite Example&#10;#20180604001">
+      <created>1528096448628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528096448628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -407,20 +463,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900944" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329602" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43396226" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43396226" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48423004" visible="true" weight="0.24930556" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48423004" visible="true" weight="0.24930556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -429,12 +487,11 @@
       <window_info id="Favorites" order="3" sideWeight="0.51576996" side_tool="true" weight="0.24930556" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.329602" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info id="Captures" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +512,8 @@
     <MESSAGE value="adjust : TypeSettingUtils&#10;1. adjust TypeSettingUtils&#10;#20180508001" />
     <MESSAGE value="adjust: Package Structue&#10;1. adjust Package Structure&#10;2. add Thread example&#10;3. add SocketExample" />
     <MESSAGE value="adjust: Package Structue&#10;1. adjust Package Structure&#10;2. add Thread example&#10;3. add SocketExample&#10;&#10;#201805181655" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjust: Package Structue&#10;1. adjust Package Structure&#10;2. add Thread example&#10;3. add SocketExample&#10;&#10;#201805181655" />
+    <MESSAGE value="adjust: Package Structue&#10;1. add SocketMonitor and Export Jar&#10;2. add Sqlite Example&#10;#20180604001" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust: Package Structue&#10;1. add SocketMonitor and Export Jar&#10;2. add Sqlite Example&#10;#20180604001" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -463,77 +521,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/verify/UnitTestV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/verify/ReflectionUtilsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/verify/TestCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/maya/DevelopX.java" />
-    <entry file="file://$PROJECT_DIR$/src/res/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="21" column="5" selection-start-line="19" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/rawdata.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="59" selection-start-column="59" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/verify/TestVerifyUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/verify/TestTypeSetting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/rs232/Device.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/element/QueueElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-407">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -602,13 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/thread/ThreadSpaceX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -764,20 +744,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/Sqlite.java">
+    <entry file="file://$PROJECT_DIR$/src/com/temporary/Exam.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/element/EventListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/element/Listener.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/element/CallBackUnit.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/thread/ThreadSpaceX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="493">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/element/Callback.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/demo/TipDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+          <folding>
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#904#1073#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1529#1733#0" expanded="true" />
+            <element signature="e#1732#1733#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/demo/CallbackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/temporary/Exam.java">
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/demo/SingletonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/demo/ByteBufferDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/SQLiteDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="103" column="14" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/MySQLDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/enoxs/example/jdbc/MSSQLDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -848,7 +898,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>slf4j-api-1.7.25</last-edited>
+          <last-edited>mssql-jdbc-6.2.2.jre8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

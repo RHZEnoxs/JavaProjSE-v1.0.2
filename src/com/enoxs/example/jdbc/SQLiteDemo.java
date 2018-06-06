@@ -6,12 +6,12 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Sqlite {
-    public Sqlite(){
+public class SQLiteDemo {
+    public SQLiteDemo(){
         Connection connection = null;
         try
         {
-            // create a database connection
+            // create runTask1 database connection
             connection = DriverManager.getConnection("jdbc:sqlite:assets/databaseX-v1.0.1.db");
             Statement statement = connection.createStatement();
             statement.setQueryTimeout(30);  // set timeout to 30 sec.
@@ -51,6 +51,6 @@ public class Sqlite {
         }
     }
     public static void main(String args[]){
-        new Sqlite();
+        new SQLiteDemo();
     }
 }

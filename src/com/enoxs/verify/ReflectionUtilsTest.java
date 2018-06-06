@@ -97,8 +97,8 @@ public class ReflectionUtilsTest {
         System.out.println("protectedField = " + ReflectionUtils.getFieldValue(obj, "protectedField"));  
         System.out.println("privateField = " + ReflectionUtils.getFieldValue(obj, "privateField"));  
           
-        ReflectionUtils.setFieldValue(obj, "publicField", "a") ;  
-        ReflectionUtils.setFieldValue(obj, "defaultField", "b") ;  
+        ReflectionUtils.setFieldValue(obj, "publicField", "runTask1") ;
+        ReflectionUtils.setFieldValue(obj, "defaultField", "setOnEventListener") ;
         ReflectionUtils.setFieldValue(obj, "protectedField", "c") ;  
         ReflectionUtils.setFieldValue(obj, "privateField", "d") ;  
           

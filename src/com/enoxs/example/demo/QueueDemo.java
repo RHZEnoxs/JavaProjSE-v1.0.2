@@ -1,11 +1,11 @@
-package com.enoxs.example.element;
+package com.enoxs.example.demo;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class QueueElement {
+public class QueueDemo {
 
-	public QueueElement() {
+	public QueueDemo() {
 		// TODO 自產生的建構子 Stub
 //		example();
 		exampleArray();
@@ -32,8 +32,8 @@ public class QueueElement {
 		//add()和remove()方法在失敗的時候會拋出異常(不推薦)
         Queue<String> queue = new LinkedList<String>();
         //添加元素
-        queue.offer("a");
-        queue.offer("b");
+        queue.offer("runTask1");
+        queue.offer("setOnEventListener");
         queue.offer("c");
         queue.offer("d");
         queue.offer("e");
@@ -59,7 +59,7 @@ public class QueueElement {
 
 	public static void main(String[] args) {
 		// TODO 自動產生的方法 Stub
-		new QueueElement();
+		new QueueDemo();
 	}
 
 }
