@@ -162,10 +162,10 @@ public class MySQLDemo {
 
     public static void main(String args[]){
         MySQLDemo db = new MySQLDemo();//測看看是否正常
-//        db.dropTable();
-//        db.createTable();
-//        db.insertTable("yku", "12356");
-//        db.insertTable("yku2", "7890");
+        db.dropTable();
+        db.createTable();
+        db.insertTable("yku", "G8");
+        db.insertTable("yku2", "YouSeeSee");
         db.SelectTable();
     }
 }

@@ -20,6 +20,7 @@ public class SQLiteDemo {
             statement.executeUpdate("create table person (id integer, name string)");
             statement.executeUpdate("insert into person values(1, 'Enoxs')");
             statement.executeUpdate("insert into person values(2, 'RHZ')");
+            statement.executeUpdate("insert into person values(3, 'JJL')");
             ResultSet rs = statement.executeQuery("select * from person");
             while(rs.next())
             {

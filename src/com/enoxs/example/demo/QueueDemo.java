@@ -1,5 +1,6 @@
 package com.enoxs.example.demo;
 
+import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -8,13 +9,34 @@ public class QueueDemo {
 	public QueueDemo() {
 		// TODO 自產生的建構子 Stub
 //		example();
-		exampleArray();
+//		exampleArray();
+        queueAdd();
 	}
+    String [] a = {"a1","a2","a3"};
+    String [] b = {"b1","b2","b3"};
+    String [] c = {"c1","c2","c3"};
+	public void queueAdd(){
+	    Queue<String> q1 = new LinkedList<>();
+	    Queue<String> q2 = new LinkedList<>();
+	    for(String msg:a){
+            System.out.println(msg);
+            q1.add(msg);
+        }
+        q2.addAll(q1);
+	    q2.clear();
+        System.out.println(q1.size());
+        System.out.println(q2.size());
+        System.out.println(q2.poll());
+        System.out.println(q2.poll());
+        System.out.println(q2.poll());
+        System.out.println(q2.poll());
+
+
+
+    }
+
+
 	public void exampleArray(){
-		String [] a = {"a1","a2","a3"};
-		String [] b = {"b1","b2","b3"};
-		String [] c = {"c1","c2","c3"};
-		
 		Queue<String []> queue = new LinkedList<String[]>();
 		queue.add(a);
 		queue.add(b);
@@ -32,8 +54,8 @@ public class QueueDemo {
 		//add()和remove()方法在失敗的時候會拋出異常(不推薦)
         Queue<String> queue = new LinkedList<String>();
         //添加元素
-        queue.offer("runTask1");
-        queue.offer("setOnEventListener");
+        queue.offer("a");
+        queue.offer("b");
         queue.offer("c");
         queue.offer("d");
         queue.offer("e");
