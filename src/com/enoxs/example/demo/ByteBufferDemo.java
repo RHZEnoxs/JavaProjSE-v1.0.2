@@ -1,8 +1,11 @@
 package com.enoxs.example.demo;
 
+import com.enoxs.utillity.Calculator;
+
 import java.nio.ByteBuffer;
 
 public class ByteBufferDemo {
+    Calculator cal = new Calculator();
     ByteBuffer buf = ByteBuffer.allocate(1024);
     byte [] arr = new byte[1024];
     public ByteBufferDemo(){
